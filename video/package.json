@@ -1,0 +1,24 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preview": "remotion studio",
+    "render": "remotion render src/index.tsx PromoVideo out/promo.mp4",
+    "render:gif": "remotion render src/index.tsx PromoVideo out/promo.gif --image-format=png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/bundler": "4.0.296",
+    "@remotion/cli": "4.0.296",
+    "@types/react": "19.2.14",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.296",
+    "typescript": "6.0.2"
+  }
+}

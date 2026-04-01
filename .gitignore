@@ -1,0 +1,9 @@
+node_modules/
+video/node_modules/
+video/out/
+video/dist/
+video/.remotion/
+*.skill
+assets/
+.DS_Store
+*.tsbuildinfo
