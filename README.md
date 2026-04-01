@@ -3,12 +3,14 @@
 > Pixel-perfect website cloning. Any AI agent. One command.
 
 <p align="center">
-  <a href="video/out/promo.mp4">
-    <img src="https://img.shields.io/badge/Watch%20Demo-Promo%20Video-6366f1?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo Video" />
+  <a href="promo.mp4">
+    <img src="promo-thumbnail.png" alt="clone-website promo video" width="720" />
   </a>
+  <br/>
+  <sub>Click the image to download the video, or watch inline below</sub>
 </p>
 
-https://github.com/user-attachments/assets/promo.mp4
+https://github.com/Kedhareswer/design-skill-clone/raw/main/promo.mp4
 
 ---
 
